@@ -26,8 +26,10 @@ This project aims to provide users with up-to-date news articles fetched from a 
 - **Search Functionality:** Allows users to search for news articles based on keywords.
 
 ## Demo
+![2](https://github.com/Garry1106/Live-News.github.io/assets/101012709/01c41631-e284-4787-9237-744369c57c08)
+![1](https://github.com/Garry1106/Live-News.github.io/assets/101012709/4a558636-3a41-4ee3-82ff-9e2ba722e2e5)
 
-You can view a live demo of the project [here](#).
+
 
 ## Installation
 
